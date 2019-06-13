@@ -4,7 +4,7 @@ import random
 import re
 import sys
 
-# Complete the countSwaps function below.
+
 def countSwaps(a):
     count = 0
     for i in range(len(a)):
