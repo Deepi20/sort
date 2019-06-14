@@ -3,8 +3,6 @@ import os
 import random
 import re
 import sys
-
-# Complete the maximumToys function below.
 def maximumToys(prices, k):
     prices.sort()
     counter = 0
