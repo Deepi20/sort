@@ -1,2 +1,2 @@
 # sort
-Different programs to explain Sorting in Python
+Different programs to practice Sorting in Python
