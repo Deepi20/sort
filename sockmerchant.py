@@ -4,7 +4,7 @@ import random
 import re
 import sys
 
-# Complete the sockMerchant function below.
+
 def sockMerchant(n, ar):
 
 if __name__ == '__main__':
