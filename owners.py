@@ -16,6 +16,11 @@ class FileOwners:
                 if v==o:
                     ownerDict[o].append(k)
         return ownerDict;
-
+files = {
+    'Input.txt': 'Randy',
+    'Code.py': 'Stan',
+    'Output.txt': 'Randy'
+}
+print(FileOwners.group_by_owners(files))
 
 
