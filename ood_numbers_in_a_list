@@ -1,4 +1,4 @@
-def remove_even(numbers) :
+def remove_even(lowerlimit,upperlimit) :
     new_list = []
     for i in range(lowerlimit,upperlimit+1) :
         if i % 2 != 0 :
